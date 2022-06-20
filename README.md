@@ -1,7 +1,7 @@
 # StyleGAN1 Latent Projection (Pytorch)
 Image projection to latent space w of StyleGAN1, implementation is based on StyleGAN2 paper
 
-Pytorch implementation 참고 https://github.com/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb
+Pytorch implementation 참고 https://github.com/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb  
 StyleGAN2 논문/Github 참고 https://github.com/NVlabs/stylegan2
 
 * 위 pytorch implementation을 수정하여, StyleGAN2 논문에서 제안한 Latent vector encoding시 Noise Penalty 구현  
