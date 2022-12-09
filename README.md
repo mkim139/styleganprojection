@@ -1,5 +1,6 @@
 # StyleGAN1 Latent Projection (Pytorch)
-Image projection to latent space w of StyleGAN1, implementation is based on StyleGAN2 paper
+Image projection to latent space w of StyleGAN1, implementation is based on StyleGAN2 paper  
+(Implemented results are in the jupyter notebook)
 
 Pytorch implementation 참고 https://github.com/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb  
 StyleGAN2 논문/Github 참고 https://github.com/NVlabs/stylegan2
